@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Vishwajeet's Website</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Hi, I'm Vishwajeet 👋</h1>
+    <img src="https://via.placeholder.com/150" class="profile-img" alt="My Photo">
+    <p>I am a student currently studying in class 10. I love coding, gaming, and learning new skills online.</p>
+    <p>My dream is to become a software engineer and create apps or games that everyone loves.</p>
+    <h2>My Hobbies</h2>
+    <ul>
+      <li>🎮 Gaming</li>
+      <li>💻 Coding</li>
+      <li>📱 Making tech videos</li>
+    </ul>
+    <button onclick="greet()">Click to Say Hello</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
